@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   lintOnSave: true,
-
+  publicPath: '/shamakanohabanon/',
   configureWebpack: {
     // output: {
     //   outputDir: __dirname + '/dist/client'
